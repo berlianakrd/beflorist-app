@@ -1,0 +1,46 @@
+name: beflorist_app
+description: A new Flutter project
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  shared_preferences: ^2.3.2   # biarkan versi terbaru saja
+  universal_html: ^2.0.8
+  url_launcher: ^6.2.6
+  font_awesome_flutter: ^10.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/login_bg.jpg
+    - assets/images/register_bg.jpg
+    - assets/images/beflorist_logo.png
+    - assets/images/home_bg.jpg
+    - assets/images/dashboard_bg.jpg
+    - assets/images/krisan_kuning.png
+    - assets/images/krisan_pink.png
+    - assets/images/krisan_putih.png
+    - assets/images/lily_pink.png
+    - assets/images/lily_putih.png
+    - assets/images/mawar_biru.png
+    - assets/images/mawar_merah.png
+    - assets/images/mawar_pink.png
+    - assets/images/mawar_putih.png
+    - assets/images/tulip_merah.png
+    
