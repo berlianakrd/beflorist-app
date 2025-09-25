@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tugas_pbp
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# beflorist-app
+>>>>>>> 16d586c6b585ea0b0ab5997085b5a3a91abf9087
